@@ -18,12 +18,12 @@ body {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 30px 0;
 }
 
 .header h1 {
     margin: 0;
-    font-size: 2em;
+    font-size: 4em;
 }
 
 /* Navbar */
@@ -57,7 +57,7 @@ body {
 
 .section {
     flex: 1;
-    background-color: navy;
+    background-color: #000080;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
