@@ -30,7 +30,7 @@ body {
 .navbar {
     display: flex;
     justify-content: space-around;
-    background-color: #F5F5DC;
+    background-color: #50C878;
     color: black;
     padding: 10px 0;
 }
